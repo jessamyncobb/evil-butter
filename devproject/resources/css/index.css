@@ -1,0 +1,21 @@
+.banner {
+    background-color: #4D00ff;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding:100px 0;
+}
+
+#small-butter{
+    height: 100px;
+    width: 100px;
+}
+
+#butter{
+    color: tomato;
+    font-size: 100px;
+}
+
+.bold{
+    font-weight: 900;
+}
